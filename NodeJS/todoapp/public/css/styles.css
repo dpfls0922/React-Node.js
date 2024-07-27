@@ -1,0 +1,35 @@
+/* public/css/styles.css */
+
+body{
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1em;
+}
+
+input{
+    width: 200px;
+    padding: 0.5em;
+    margin-right: 0.5em;
+}
+
+button{
+    padding: 0.5em;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+li{
+    margin: 0.5em 0;
+}
